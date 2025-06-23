@@ -57,3 +57,22 @@ This will compile for you system the project as a executable.
 
 ## 📘 Documentation
 There is a custom documentation of this project, please read it before using Aluminium, it's a vast tool.
+
+## ⚖️ Licence
+Under [GPL 3.0](./licence.md).
+
+This means you are free to:
+- **Use** the software for any purpose.
+- **Study and modify** the source code.
+- **Distribute** original or modified versions.
+- **Sell** the software, provided the terms of the GPL are respected.
+
+However, you must also:
+- **Include the full source code** (or offer access to it) when distributing the software.
+- **Preserve the GPL 3.0 licence** in all copies or derivative works.
+- **Clearly state any changes** you’ve made if you distribute a modified version.
+- **Allow recipients to use, modify, and redistribute** your version under the same license.
+
+You may charge for the software or related services (e.g., support, hosting), but you **cannot prevent redistribution** by your users.
+
+For more details, refer to the official [GPL v3 license text](./licence.md).
